@@ -1,0 +1,15 @@
+.services{
+background-color:white;   
+text-align: center; 
+}
+.service{
+background-color: white;
+display: inline-block;
+width: 20%;    
+}
+i{
+color: rgb(255, 171, 15); 
+}
+p{
+text-align: center;
+}
